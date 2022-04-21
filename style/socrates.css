@@ -16,26 +16,6 @@
 
 /***************** COMMON STRUCTURE **********************/
 
-section.titlepage h1 {
-  font-family: "CMU Serif";
-}
-
-section.titlepage h2 {
-  font-family: "CMU Serif";
-}
-
-section.titlepage h3 {
-  font-family: "CMU Serif";
-}
-
-section.titlepage h4 {
-  font-family: "CMU Serif";
-}
-
-section.titlepage h5 {
-  font-family: "CMU Serif";
-}
-
 :root {
   font-family: "CMU Serif";
   font-weight: initial;
@@ -62,16 +42,19 @@ section.titlepage .organization {
 }
 section.titlepage h1 {
   border-bottom: 0px solid var(--border-color);
+  font-family: 'CMU serif';
 }
 
 section.titlepage h2 {
   font-weight: 300;
+  font-family: 'CMU serif';
 }
 
 section.titlepage h3,
 section.titlepage h4,
 section.titlepage h5 {
   text-align: right; 
+  font-family: 'CMU serif';
 }
 
 /* -------------------- TRANSITION ---------------------------------*/
