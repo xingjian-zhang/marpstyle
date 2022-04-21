@@ -16,11 +16,30 @@
 
 /***************** COMMON STRUCTURE **********************/
 
+section.titlepage h1 {
+  font-family: "CMU Serif";
+}
+
+section.titlepage h2 {
+  font-family: "CMU Serif";
+}
+
+section.titlepage h3 {
+  font-family: "CMU Serif";
+}
+
+section.titlepage h4 {
+  font-family: "CMU Serif";
+}
+
+section.titlepage h5 {
+  font-family: "CMU Serif";
+}
+
 :root {
   font-family: "CMU Serif";
   font-weight: initial;
   --cool-list-color       : rgb(168, 12, 85);
-
 }
 
 /* ------------------- TITLEPAGE -----------------------------*/
